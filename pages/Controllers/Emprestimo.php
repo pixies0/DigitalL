@@ -21,6 +21,7 @@ $Data_devolucao = null;
 $Cod_unidade = null;
 $Cod_livro = null;
 $Numero_cartao = null;
+$Copias = null;
 
 
 if ($_POST['submit'] == 'INSERIR') {
@@ -51,7 +52,13 @@ if ($_POST['submit'] == 'INSERIR') {
 			header("Location: ../../pages/Emprestimo.php?MSG=Cadastrado com sucesso!");
 		} catch (\PDOException $e) {
 			echo $e->getMessage();
+			$Copias = Copias($Cod_unidade, $Cod_livro);
+			try{
+			if($Copias < 0)
+				header("Location: ../../pages/Emprestimo.php?MSGERROR=Titulo indisponivel na unidade");
+			}catch{
 			header("Location: ../../pages/Emprestimo.php?MSGERROR=Usuário Já Possuí Este Título");
+			}
 		}
 	}
 } elseif ($_POST['submit'] == 'Devolver') {
