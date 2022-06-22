@@ -9,7 +9,7 @@
 
 <header>
   <nav class="navbar navbar-expand-lg navbar-dark" style="background-color: #006400;">
-    <a class="navbar-brand" href="/jesus/index.php" style="font-weight:bold !important; font-size: 32px; font-family: 'Roboto', sans-serif"> <img src="assets/images/ID.png" width="40px" height="" alt="">&nbsp; DigitalL</a>
+    <a class="navbar-brand" href="index.php" style="font-weight:bold !important; font-size: 32px; font-family: 'Roboto', sans-serif"> <img src="assets/images/ID.png" width="40px" height="" alt="">&nbsp; DigitalL</a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
