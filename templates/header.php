@@ -20,7 +20,7 @@
             Cadastros e relatórios
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <a class="dropdown-item" href="/jesus/pages/Editora.php">Editoras</a>
+            <a class="dropdown-item" href="pages/Editora.php">Editoras</a>
             <a class="dropdown-item" href="/jesus/pages/Livro.php">Livros</a>
             <a class="dropdown-item" href="/jesus/pages/Unidade.php">Unidades</a>
             <a class="dropdown-item" href="/jesus/pages/Copias.php">Cópias</a>
