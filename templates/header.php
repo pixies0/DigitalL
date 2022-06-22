@@ -35,7 +35,7 @@
             Mais
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-            <a class="dropdown-item" href="../pages/teste1/index.php">Sobre o Projeto</a>
+            <a class="dropdown-item" href="pages/teste1/index.php">Sobre o Projeto</a>
           </div>
         </li>
       </ul>
