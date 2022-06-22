@@ -21,11 +21,11 @@
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
             <a class="dropdown-item" href="pages/Editora.php">Editoras</a>
-            <a class="dropdown-item" href="/jesus/pages/Livro.php">Livros</a>
-            <a class="dropdown-item" href="/jesus/pages/Unidade.php">Unidades</a>
-            <a class="dropdown-item" href="/jesus/pages/Copias.php">Cópias</a>
-            <a class="dropdown-item" href="/jesus/pages/Usuario.php">Usuários</a>
-            <a class="dropdown-item" href="/jesus/pages/Emprestimo.php">Emprestimos</a>
+            <a class="dropdown-item" href="pages/Livro.php">Livros</a>
+            <a class="dropdown-item" href="pages/Unidade.php">Unidades</a>
+            <a class="dropdown-item" href="pages/Copias.php">Cópias</a>
+            <a class="dropdown-item" href="pages/Usuario.php">Usuários</a>
+            <a class="dropdown-item" href="pages/Emprestimo.php">Emprestimos</a>
           </div>
         </li>
       </ul>
