@@ -2,7 +2,7 @@
     <div class="wrapper flex-grow-1"></div>
     <footer class="page-footer" style="background-color: #006400; left: 0; bottom: 0; width: 100%; text-align: center;">
         <div class="footer-copyright text-center py-3">
-            <a style="color:white;"> © 2022: Banco de dados, Desenvolvido por Izann Rogério G. Brum e João Pedro S. Cunha.</a>
+            <a style="color:white;"> © 2022: Banco de dados, Desenvolvido por João Pedro Silva Cunha (@github: pixies0).</a>
         </div>
     </footer>
 </body>
