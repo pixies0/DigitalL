@@ -8,7 +8,7 @@ Trabalho desenvolvido na disciplina de Banco de Dados no ano de 2022 na Universi
 
 2 - Com o PHP instalado basta rodar o servidor local no diretório do projeto. Para isso usa-se o comando:
 
-`php -S localhost:XXXX`
+### `php -S localhost:XXXX`
 
 onde XXXX é a porta que deseja rodar.
 
@@ -48,8 +48,10 @@ No caso, vai se deparar com o seguinte esquema de banco de dados:
 
 ## Práticas exercicitadas
 
-`Banco de dados`
+### `Banco de dados`
 
-`Models & Controllers - Padrões de projetos`
+### `Models & Controllers - Padrões de projetos`
 
-`Introdução à POO`
+### `Introdução à POO`
+
+### `Controle de versão via git`
